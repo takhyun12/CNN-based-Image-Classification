@@ -1,0 +1,1 @@
+"C:\Users\JUNG\Anaconda3\envs\tf\python.exe" "C:\Users\JUNG\Desktop\자료\4. 프로젝트\4. Network_Programming\CNN\client\client_ui.py" %1
