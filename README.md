@@ -42,5 +42,3 @@ Status: 완료
 ```
 $ Python {script}.py
 ```
-
----
