@@ -1,6 +1,6 @@
 # CNN based Image Classification
 #### 가장 기본적인 2d-conv 기반의 Feature representation Leaning CNN Model
-#### * 건국대학교(Konkuk Univ.) Network Programming assignment
+#### * 건국대학교(Konkuk Univ.) 'Network Programming' assignment
 
 Author: Tackhyun Jung
 
