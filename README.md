@@ -4,11 +4,14 @@
 
 Author: Tackhyun Jung
 
-Status: 진행 중
+Status: 완료
 
 ### 핵심목표
-1) OpenCV의 다양한 기술을 통해 여러 종류의 스캔 이미지나 영수증을 보기 좋게 가공해줌
-2) REST API 기반의 웹 서비스 수행 예정
+1) CNN 모델 구현 및 학습 메커니즘 구현 `retrain.py`
+2) CNN 모델 기반의 이미지 분류 `prediction.py`
+3) CNN 모델의 학습 결과 시각화 `tensorboard.py`
+4) 클라이언트/서버 환경애서 해당 모델 활용 방안 예시 `server.py` `client.py` 
+5) python 코드를 C# windows 소프트웨어에서 활용하는 방안에 대한 예시 `CNN_UI`
 
 ---
 
