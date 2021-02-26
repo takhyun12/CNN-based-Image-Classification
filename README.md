@@ -16,25 +16,31 @@ Status: 완료
 ---
 
 ### 사용된 기술
-* OTSU-Thresholding
-* Morph erode and open
-* Find Contours
-* Perspective Transform
+* CNN(Convolutional Neural Networks)
+* Socket
+* Multi Processing, Multi threading
+* google Inception v3
 
 ---
 
 ### Requirement
-* Python 3.6
-* cv2
-* imutils
+* Python 3x
+* tensorflow
+* keras
 * numpy
+* tarfile
+* threading
+* socket
+
+`CNN_UI`에만 해당
+* C# (.NET FRAMEWORK 3.5 이상)
 
 ---
 
 ### Usage
 
 ```
-$ Python Main.py
+$ Python {script}.py
 ```
 
 ---
